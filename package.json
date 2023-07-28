@@ -1,0 +1,25 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "Task completions for Stage 1 of EPAM course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshodbekisoqjonov/epam_js_tasks.git"
+  },
+  "keywords": [
+    "epam_js_tasks"
+  ],
+  "author": "Dilshodbek_Isokjonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilshodbekisoqjonov/epam_js_tasks/issues"
+  },
+  "homepage": "https://github.com/dilshodbekisoqjonov/epam_js_tasks#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
