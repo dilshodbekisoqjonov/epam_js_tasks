@@ -96,3 +96,5 @@ let bool4 = Boolean(undefined); // false
 let bool5 = Boolean(NaN); // false
 let bool6 = Boolean(333); // true
 
+
+
